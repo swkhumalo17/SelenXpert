@@ -1,0 +1,64 @@
+
+                         -- NARRATOR LOG FILE --                                                                                       
+
+2023/10/19 14:11:19:1119 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:11:19:1119 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:11:19:1119 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:11:20:1120 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:11:20:1120 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:11:20:1120 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:11:20:1120 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:11:20:1120 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:11:20:1120 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:11:20:1120 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:11:20:1120 - [DBUG] Executing test - Login_DAE | 21 of 25                                                                                       
+
+2023/10/19 14:11:58:1158 - [INFO] - [INFO] STEP 1:Successfully navigated to OM| DAE SSO Site.                                                                                       
+
+2023/10/19 14:12:00:120  - [DBUG]  Found element by Xpath : //div[@class='divnotNewRegisteredUser ']                                                                                       
+
+2023/10/19 14:12:00:120  - [INFO] - [INFO] STEP 3:Successfully navigated to OM| DAE - LogIn page.                                                                                       
+
+2023/10/19 14:12:01:121  - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/19 14:12:01:121  - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/19 14:12:01:121  - [DBUG] Entered Text of: Hornjo to: //input[@id='username']                                                                                       
+
+2023/10/19 14:12:01:121  - [INFO] - [INFO] STEP 5:Successfully entered the Username Hornjo                                                                                       
+
+2023/10/19 14:12:01:121  - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/19 14:12:01:121  - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/19 14:12:01:121  - [DBUG] Entered Text of: Password@01 to: //input[@id='password']                                                                                       
+
+2023/10/19 14:12:01:121  - [INFO] - [INFO] STEP 6:Successfully entered the Password Password@01                                                                                       
+
+2023/10/19 14:12:01:121  - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/19 14:12:01:121  - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/19 14:12:02:122  - [DBUG] Clicked element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/19 14:12:02:122  - [INFO] - [INFO] STEP 7:Successfully clicked the LogIn Button.                                                                                       
+
+2023/10/19 14:12:05:125  - [DBUG]  Found element by Xpath : //li[@title='Workbench']                                                                                       
+
+2023/10/19 14:12:05:125  - [INFO] - [INFO] STEP 8:Successfully logged In.                                                                                       
+
+2023/10/19 14:12:05:125  - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/19 14:12:05:125  - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 14:12:05:125  - [DBUG] Executing test - ContactACustomer | 22 of 25                                                                                       

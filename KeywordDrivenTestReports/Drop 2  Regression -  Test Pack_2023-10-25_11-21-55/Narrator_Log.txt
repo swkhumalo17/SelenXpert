@@ -1,0 +1,1446 @@
+
+                         -- NARRATOR LOG FILE --                                                                                       
+
+2023/10/25 11:21:57:2157 - [DBUG] Executing test - Login_DAE | 1 of 25                                                                                       
+
+2023/10/25 11:23:02:232  - [INFO] - [INFO] STEP 1:Successfully navigated to OM| DAE SSO Site.                                                                                       
+
+2023/10/25 11:23:04:234  - [DBUG]  Found element by Xpath : //div[@class='divnotNewRegisteredUser ']                                                                                       
+
+2023/10/25 11:23:04:234  - [INFO] - [INFO] STEP 3:Successfully navigated to OM| DAE - LogIn page.                                                                                       
+
+2023/10/25 11:23:05:235  - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:23:05:235  - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:23:05:235  - [DBUG] Entered Text of: PFCAMPAIGNMAN to: //input[@id='username']                                                                                       
+
+2023/10/25 11:23:05:235  - [INFO] - [INFO] STEP 5:Successfully entered the Username PFCAMPAIGNMAN                                                                                       
+
+2023/10/25 11:23:05:235  - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:23:05:235  - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:23:05:235  - [DBUG] Entered Text of: Password@01 to: //input[@id='password']                                                                                       
+
+2023/10/25 11:23:05:235  - [INFO] - [INFO] STEP 6:Successfully entered the Password Password@01                                                                                       
+
+2023/10/25 11:23:05:235  - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:23:05:235  - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:23:05:235  - [DBUG] Clicked element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:23:05:235  - [INFO] - [INFO] STEP 7:Successfully clicked the LogIn Button.                                                                                       
+
+2023/10/25 11:23:23:2323 - [FAIL]  STEP 9:Failed to wait for Workbench sidebar Menu.                                                                                       
+
+2023/10/25 11:23:23:2323 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:23:23:2323 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:23:23:2323 - [DBUG] Executing test - Create_Campaign | 2 of 25                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR] Reached TimeOut whilst waiting for element by Xpath '//li[@title='Campaigns']'                                                                                       
+
+2023/10/25 11:23:41:2341 - [FAIL]  STEP 11:Failed to wait for the Campaigns Sidebar.                                                                                       
+
+2023/10/25 11:23:41:2341 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:23:41:2341 - [DBUG] Executing test - Edit_Campaign | 3 of 25                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Status 2 ' not found                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Product 1 ' not found                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Product 2 ' not found                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Product 3 ' not found                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Priority ' not found                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Allocation Group ' not found                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Additional Information ' not found                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Mandatory Campaign ' not found                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Re-allocate Leads ' not found                                                                                       
+
+2023/10/25 11:23:41:2341 - [EROR]  Parameter ' Engagement Preference ' not found                                                                                       
+
+2023/10/25 11:23:58:2358 - [EROR] Reached TimeOut whilst waiting for element by Xpath '//li[@title='Campaigns']'                                                                                       
+
+2023/10/25 11:23:58:2358 - [FAIL]  STEP 13:                                                                                         
+
+2023/10/25 11:23:58:2358 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:23:58:2358 - [DBUG] Executing test - LogOut_DAE | 4 of 25                                                                                       
+
+2023/10/25 11:24:14:2414 - [EROR] Reached TimeOut whilst waiting for element by Xpath '(//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]'                                                                                       
+
+2023/10/25 11:24:14:2414 - [FAIL]  STEP 15:Failed to wait for the user profile dropDown.                                                                                       
+
+2023/10/25 11:24:14:2414 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:24:14:2414 - [DBUG] Executing test - Login_DAE | 5 of 25                                                                                       
+
+2023/10/25 11:24:57:2457 - [INFO] - [INFO] STEP 16:Successfully navigated to OM| DAE SSO Site.                                                                                       
+
+2023/10/25 11:24:59:2459 - [DBUG]  Found element by Xpath : //div[@class='divnotNewRegisteredUser ']                                                                                       
+
+2023/10/25 11:24:59:2459 - [INFO] - [INFO] STEP 18:Successfully navigated to OM| DAE - LogIn page.                                                                                       
+
+2023/10/25 11:24:59:2459 - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:24:59:2459 - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:24:59:2459 - [DBUG] Entered Text of: MFCCAMPAIGNMAN to: //input[@id='username']                                                                                       
+
+2023/10/25 11:24:59:2459 - [INFO] - [INFO] STEP 20:Successfully entered the Username MFCCAMPAIGNMAN                                                                                       
+
+2023/10/25 11:24:59:2459 - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:24:59:2459 - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:24:59:2459 - [DBUG] Entered Text of: Password@01 to: //input[@id='password']                                                                                       
+
+2023/10/25 11:24:59:2459 - [INFO] - [INFO] STEP 21:Successfully entered the Password Password@01                                                                                       
+
+2023/10/25 11:24:59:2459 - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:24:59:2459 - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:25:00:250  - [DBUG] Clicked element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:25:00:250  - [INFO] - [INFO] STEP 22:Successfully clicked the LogIn Button.                                                                                       
+
+2023/10/25 11:25:02:252  - [DBUG]  Found element by Xpath : //li[@title='Workbench']                                                                                       
+
+2023/10/25 11:25:02:252  - [INFO] - [INFO] STEP 23:Successfully logged In.                                                                                       
+
+2023/10/25 11:25:03:253  - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:25:03:253  - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:25:03:253  - [DBUG] Executing test - Create_Campaign | 6 of 25                                                                                       
+
+2023/10/25 11:25:03:253  - [EROR]  Parameter ' Product 3 ' not found                                                                                       
+
+2023/10/25 11:25:04:254  - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:25:04:254  - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:25:04:254  - [DBUG] Clicked element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:25:04:254  - [INFO] - [INFO] STEP 26:Successfully clicked the Campaign Sidebar.                                                                                       
+
+2023/10/25 11:25:05:255  - [DBUG]  Found element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:25:05:255  - [INFO] - [INFO] STEP 27:Successfully validated the Campaign List Header.                                                                                       
+
+2023/10/25 11:25:05:255  - [DBUG]  Found element by Xpath : //span[contains(text(),'CREATE NEW')]                                                                                       
+
+2023/10/25 11:25:05:255  - [DBUG]  Found element by Xpath : //span[contains(text(),'CREATE NEW')]                                                                                       
+
+2023/10/25 11:25:06:256  - [DBUG] Clicked element by Xpath : //span[contains(text(),'CREATE NEW')]                                                                                       
+
+2023/10/25 11:25:06:256  - [INFO] - [INFO] STEP 29:Successfully clicked the Create New Button.                                                                                       
+
+2023/10/25 11:25:07:257  - [DBUG]  Found element by Xpath : (//label[@for='campaignName']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:07:257  - [DBUG]  Found element by Xpath : (//label[@for='campaignName']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:07:257  - [DBUG] Clicked element by Xpath : (//label[@for='campaignName']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:08:258  - [DBUG]  Found element by Xpath : //input[@id='campaignName']                                                                                       
+
+2023/10/25 11:25:08:258  - [DBUG]  Found element by Xpath : //input[@id='campaignName']                                                                                       
+
+2023/10/25 11:25:08:258  - [DBUG] Entered Text of: Automation Campaign MFC to: //input[@id='campaignName']                                                                                       
+
+2023/10/25 11:25:08:258  - [DBUG]  Found element by Xpath : //div[@id='campaignName_list']//..//div[text()='Automation Campaign MFC']                                                                                       
+
+2023/10/25 11:25:08:258  - [DBUG] Clicked element by Xpath : //div[@id='campaignName_list']//..//div[text()='Automation Campaign MFC']                                                                                       
+
+2023/10/25 11:25:08:258  - [INFO] - [INFO] STEP 31:Successfully captured Campaign Name Automation Campaign MFC                                                                                       
+
+2023/10/25 11:25:08:258  - [DBUG]  Found element by Xpath : (//label[@for='category']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:09:259  - [DBUG] Clicked element by Xpath : (//label[@for='category']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:09:259  - [DBUG]  Found element by Xpath : //div[@id='category_list']//..//div[text()='Up-sell']                                                                                       
+
+2023/10/25 11:25:09:259  - [DBUG]  Found element by Xpath : //div[@id='category_list']//..//div[text()='Up-sell']                                                                                       
+
+2023/10/25 11:25:09:259  - [DBUG] Clicked element by Xpath : //div[@id='category_list']//..//div[text()='Up-sell']                                                                                       
+
+2023/10/25 11:25:09:259  - [INFO] - [INFO] STEP 32:Successfully selected Category Up-sell                                                                                       
+
+2023/10/25 11:25:09:259  - [DBUG]  Found element by Xpath : (//label[@for='product']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:09:259  - [DBUG] Clicked element by Xpath : (//label[@for='product']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:09:259  - [DBUG]  Found element by Xpath : //div[text()='LIFE_CHILD']                                                                                       
+
+2023/10/25 11:25:09:259  - [DBUG]  Found element by Xpath : //div[text()='LIFE_CHILD']                                                                                       
+
+2023/10/25 11:25:10:2510 - [DBUG] Clicked element by Xpath : //div[text()='LIFE_CHILD']                                                                                       
+
+2023/10/25 11:25:10:2510 - [DBUG]  Found element by Xpath : //div[text()='Childrens Term Plan']//..//span[@class='omd-cascader-checkbox']                                                                                       
+
+2023/10/25 11:25:10:2510 - [DBUG] Clicked element by Xpath : //div[text()='Childrens Term Plan']//..//span[@class='omd-cascader-checkbox']                                                                                       
+
+2023/10/25 11:25:10:2510 - [DBUG]  Found element by Xpath : (//label[@for='product']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:10:2510 - [DBUG] Clicked element by Xpath : (//label[@for='product']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:10:2510 - [INFO] - [INFO] STEP 33:captured Product LIFE_CHILD  'Childrens Term Plan                                                                                       
+
+2023/10/25 11:25:10:2510 - [DBUG]  Found element by Xpath : (//label[@for='startDate']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:11:2511 - [DBUG] Clicked element by Xpath : (//label[@for='startDate']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:11:2511 - [INFO] - [INFO] STEP 34:Successfully clicked the Start Dropdown.                                                                                       
+
+2023/10/25 11:25:11:2511 - [INFO] - [INFO] STEP 35:Successfully captured startDate '2023-10-25'                                                                                       
+
+2023/10/25 11:25:13:2513 - [DBUG]  Found element by Xpath : (//label[@for='endDate']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:14:2514 - [DBUG] Clicked element by Xpath : (//label[@for='endDate']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:14:2514 - [INFO] - [INFO] STEP 36:Successfully clicked the End Date Dropdown.                                                                                       
+
+2023/10/25 11:25:14:2514 - [INFO] - [INFO] STEP 37:Successfully captured startDate '2023-10-28'                                                                                       
+
+2023/10/25 11:25:14:2514 - [DBUG]  Found element by Xpath : (//label[@for='engagementType']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:14:2514 - [DBUG] Clicked element by Xpath : (//label[@for='engagementType']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:14:2514 - [DBUG]  Found element by Xpath : //div[text()='Virtual']                                                                                       
+
+2023/10/25 11:25:14:2514 - [DBUG]  Found element by Xpath : //div[text()='Virtual']                                                                                       
+
+2023/10/25 11:25:15:2515 - [DBUG] Clicked element by Xpath : //div[text()='Virtual']                                                                                       
+
+2023/10/25 11:25:15:2515 - [INFO] - [INFO] STEP 38:Successfully selected Engagement Preference Virtual                                                                                       
+
+2023/10/25 11:25:15:2515 - [DBUG] Scrolled to element - (//label[@for='priority']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:15:2515 - [DBUG]  Found element by Xpath : (//label[@for='priority']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:15:2515 - [DBUG] Clicked element by Xpath : (//label[@for='priority']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:15:2515 - [INFO] - [INFO] STEP 39:Successfully clicked the Priority Dropdown.                                                                                       
+
+2023/10/25 11:25:15:2515 - [DBUG]  Found element by Xpath : //div[text()='High']                                                                                       
+
+2023/10/25 11:25:15:2515 - [DBUG]  Found element by Xpath : //div[text()='High']                                                                                       
+
+2023/10/25 11:25:15:2515 - [DBUG] Clicked element by Xpath : //div[text()='High']                                                                                       
+
+2023/10/25 11:25:15:2515 - [INFO] - [INFO] STEP 40:Successfully selected Priority High                                                                                       
+
+2023/10/25 11:25:15:2515 - [DBUG]  Found element by Xpath : (//label[@for='orgCode']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:16:2516 - [DBUG] Clicked element by Xpath : (//label[@for='orgCode']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:16:2516 - [INFO] - [INFO] STEP 41:Successfully clicked the Allocation Group Dropdown.                                                                                       
+
+2023/10/25 11:25:16:2516 - [DBUG]  Found element by Xpath : //div[text()='MFC;Tied Field']                                                                                       
+
+2023/10/25 11:25:16:2516 - [DBUG]  Found element by Xpath : //div[text()='MFC;Tied Field']                                                                                       
+
+2023/10/25 11:25:16:2516 - [DBUG] Clicked element by Xpath : //div[text()='MFC;Tied Field']                                                                                       
+
+2023/10/25 11:25:16:2516 - [INFO] - [INFO] STEP 42:Successfully captured Allocation Group MFC;Tied Field                                                                                       
+
+2023/10/25 11:25:16:2516 - [DBUG] Scrolled to element - //input[@id='campaignDesc']                                                                                       
+
+2023/10/25 11:25:16:2516 - [DBUG]  Found element by Xpath : //input[@id='campaignDesc']                                                                                       
+
+2023/10/25 11:25:16:2516 - [DBUG] Entered Text of: New campaign MFC to: //input[@id='campaignDesc']                                                                                       
+
+2023/10/25 11:25:16:2516 - [INFO] - [INFO] STEP 43:Successfully captured additional information.                                                                                       
+
+2023/10/25 11:25:16:2516 - [INFO] - [INFO] STEP 44:Successfully captured Campaign Information.                                                                                       
+
+2023/10/25 11:25:17:2517 - [DBUG]  Found element by Xpath : (//span[text()='NEXT']//..//..//button)[1]                                                                                       
+
+2023/10/25 11:25:17:2517 - [DBUG]  Found element by Xpath : (//span[text()='NEXT']//..//..//button)[1]                                                                                       
+
+2023/10/25 11:25:18:2518 - [DBUG] Clicked element by Xpath : (//span[text()='NEXT']//..//..//button)[1]                                                                                       
+
+2023/10/25 11:25:18:2518 - [INFO] - [INFO] STEP 46:Successfully captured the campaign.                                                                                       
+
+2023/10/25 11:25:19:2519 - [DBUG]  Found element by Xpath : //div[@class='campaign-info campaignStepShow']//div[text()='Marketing Material']                                                                                       
+
+2023/10/25 11:25:19:2519 - [DBUG]  Found element by Xpath : (//div[text()='Upload Files']//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:25:20:2520 - [DBUG] Clicked element by Xpath : (//div[text()='Upload Files']//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:25:33:2533 - [DBUG]  Found element by Xpath : (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:25:33:2533 - [DBUG]  Found element by Xpath : (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:25:33:2533 - [DBUG] Text: AMS Environment Setup.pdf retrieved successfully from eloement - (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:25:37:2537 - [DBUG]  Found element by Xpath : //div[text()='Marketing Material']//..//..//span[text()='NEXT']                                                                                       
+
+2023/10/25 11:25:37:2537 - [DBUG]  Found element by Xpath : //div[text()='Marketing Material']//..//..//span[text()='NEXT']                                                                                       
+
+2023/10/25 11:25:37:2537 - [DBUG] Clicked element by Xpath : //div[text()='Marketing Material']//..//..//span[text()='NEXT']                                                                                       
+
+2023/10/25 11:25:37:2537 - [INFO] - [INFO] STEP 48:Successfully uploaded the file AMS Environment Setup.pdf                                                                                       
+
+2023/10/25 11:25:38:2538 - [DBUG]  Found element by Xpath : (//div[text()='Campaign Name']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:38:2538 - [DBUG] Text: Automation Campaign MFC retrieved successfully from eloement - (//div[text()='Campaign Name']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:38:2538 - [INFO] - VALIDATION: 50:Campaign MFCbr Expected Value Automation Campaign MFC                                                                                       
+
+2023/10/25 11:25:38:2538 - [INFO] - [INFO] STEP 51:Successfully validated                                                                                       
+
+2023/10/25 11:25:38:2538 - [DBUG]  Found element by Xpath : (//div[text()='Product']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:38:2538 - [DBUG] Text: Childrens Term Plan retrieved successfully from eloement - (//div[text()='Product']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:38:2538 - [INFO] - VALIDATION: 53:Childrens Term Planbr Expected Value Childrens Term Plan                                                                                       
+
+2023/10/25 11:25:38:2538 - [INFO] - [INFO] STEP 54:Successfully validated                                                                                       
+
+2023/10/25 11:25:39:2539 - [DBUG]  Found element by Xpath : (//div[text()='Category']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:39:2539 - [DBUG] Text: Up-sell retrieved successfully from eloement - (//div[text()='Category']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:39:2539 - [INFO] - VALIDATION: 56: Actual Value Up-sellbr Expected Value Up-sell                                                                                       
+
+2023/10/25 11:25:39:2539 - [INFO] - [INFO] STEP 57:Successfully validated                                                                                       
+
+2023/10/25 11:25:39:2539 - [DBUG]  Found element by Xpath : (//div[text()='Start Date']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:39:2539 - [DBUG] Text: 25 Oct 2023 retrieved successfully from eloement - (//div[text()='Start Date']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:39:2539 - [DBUG]  Found element by Xpath : (//div[text()='End Date']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:39:2539 - [DBUG] Text: 28 Oct 2023 retrieved successfully from eloement - (//div[text()='End Date']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:39:2539 - [INFO] - VALIDATION: 59: Actual Value 25 Oct 2023br Expected Value 25 Oct 2023                                                                                       
+
+2023/10/25 11:25:39:2539 - [INFO] - [INFO] STEP 60:Successfully validated                                                                                       
+
+2023/10/25 11:25:40:2540 - [INFO] - VALIDATION: 62: Actual Value 28 Oct 2023br Expected Value 28 Oct 2023                                                                                       
+
+2023/10/25 11:25:40:2540 - [INFO] - [INFO] STEP 63:Successfully validated                                                                                       
+
+2023/10/25 11:25:40:2540 - [DBUG]  Found element by Xpath : (//div[text()='Priority']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:40:2540 - [DBUG] Text: High retrieved successfully from eloement - (//div[text()='Priority']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:40:2540 - [INFO] - VALIDATION: 65: Actual Value Highbr Expected Value High                                                                                       
+
+2023/10/25 11:25:40:2540 - [INFO] - [INFO] STEP 66:Successfully validated                                                                                       
+
+2023/10/25 11:25:43:2543 - [DBUG] Scrolled to element - (//div[text()='End Date']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:43:2543 - [DBUG]  Found element by Xpath : (//div[text()='Allocation Group']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:43:2543 - [DBUG] Text: MFC;Tied Field retrieved successfully from eloement - (//div[text()='Allocation Group']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:43:2543 - [INFO] - VALIDATION: 68: Actual Value MFC;Tied Fieldbr Expected Value MFC;Tied Field                                                                                       
+
+2023/10/25 11:25:43:2543 - [INFO] - [INFO] STEP 69:Successfully validated                                                                                       
+
+2023/10/25 11:25:43:2543 - [DBUG] Scrolled to element - (//div[text()='Additional Information']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:43:2543 - [DBUG]  Found element by Xpath : (//div[text()='Additional Information']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:43:2543 - [DBUG] Text: New campaign MFC retrieved successfully from eloement - (//div[text()='Additional Information']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:43:2543 - [INFO] - VALIDATION: 71:Value New campaign MFCbr Expected Value New campaign MFC                                                                                       
+
+2023/10/25 11:25:43:2543 - [INFO] - [INFO] STEP 72:Successfully validated                                                                                       
+
+2023/10/25 11:25:44:2544 - [DBUG]  Found element by Xpath : (//div[@class='campaign-comfrim campaignStepShow']//div[text()='Marketing Material']//..//span)[1]                                                                                       
+
+2023/10/25 11:25:44:2544 - [DBUG]  Found element by Xpath : (//div[@class='campaign-comfrim campaignStepShow']//div[text()='Marketing Material']//..//span)[1]                                                                                       
+
+2023/10/25 11:25:44:2544 - [DBUG] Text: AMS Environment Setup.pdf retrieved successfully from eloement - (//div[@class='campaign-comfrim campaignStepShow']//div[text()='Marketing Material']//..//span)[1]                                                                                       
+
+2023/10/25 11:25:44:2544 - [INFO] - [INFO] STEP 74:validated the uploaded file AMS Environment Setup.pdf                                                                                       
+
+2023/10/25 11:25:44:2544 - [DBUG]  Found element by Xpath : (//span[text()='CONFIRM']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:25:45:2545 - [DBUG] Clicked element by Xpath : (//span[text()='CONFIRM']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:25:45:2545 - [INFO] - [INFO] STEP 76:Successfully validated all the Campaign Information.                                                                                       
+
+2023/10/25 11:25:45:2545 - [DBUG]  Found element by Xpath : (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:25:45:2545 - [DBUG]  Found element by Xpath : (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:25:45:2545 - [DBUG] Text: Launched successfully and you can start uploading target customers. retrieved successfully from eloement - (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:25:45:2545 - [INFO] - [INFO] STEP 78:successfully and you can start uploading target customers.                                                                                       
+
+2023/10/25 11:25:47:2547 - [DBUG]  Found element by Xpath : (//div[text()='Automation Campaign MFC']//..//span)[1]                                                                                       
+
+2023/10/25 11:25:47:2547 - [DBUG] Text: High retrieved successfully from eloement - (//div[text()='Automation Campaign MFC']//..//span)[1]                                                                                       
+
+2023/10/25 11:25:47:2547 - [DBUG]  Found element by Xpath : (//div[text()='Campaign code']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:48:2548 - [DBUG] Text: 20231025004 retrieved successfully from eloement - (//div[text()='Campaign code']//..//div)[2]                                                                                       
+
+2023/10/25 11:25:48:2548 - [DBUG]  Found element by Xpath : (//div[text()='Automation Campaign MFC']//..//span)[2]                                                                                       
+
+2023/10/25 11:25:48:2548 - [DBUG] Text: Active retrieved successfully from eloement - (//div[text()='Automation Campaign MFC']//..//span)[2]                                                                                       
+
+2023/10/25 11:25:48:2548 - [INFO] - VALIDATION: 80: Actual Value Activebr Expected Value Active                                                                                       
+
+2023/10/25 11:25:48:2548 - [INFO] - [INFO] STEP 81:Successfully validated the Campaign Status.                                                                                       
+
+2023/10/25 11:25:48:2548 - [DBUG]  Found element by Xpath : (//span[text()='Target Customer']//..//..//..)[1]                                                                                       
+
+2023/10/25 11:25:48:2548 - [DBUG]  Found element by Xpath : (//span[text()='Target Customer']//..//..//..)[1]                                                                                       
+
+2023/10/25 11:25:48:2548 - [DBUG] Clicked element by Xpath : (//span[text()='Target Customer']//..//..//..)[1]                                                                                       
+
+2023/10/25 11:25:48:2548 - [INFO] - [INFO] STEP 83:Successfully navigated to Target Customer Tab.                                                                                       
+
+2023/10/25 11:25:49:2549 - [DBUG]  Found element by Xpath : (//span[text()='UPLOAD TARGET CUSTOMER']//..)[1]                                                                                       
+
+2023/10/25 11:25:49:2549 - [DBUG]  Found element by Xpath : (//span[text()='UPLOAD TARGET CUSTOMER']//..)[1]                                                                                       
+
+2023/10/25 11:25:49:2549 - [DBUG] Clicked element by Xpath : (//span[text()='UPLOAD TARGET CUSTOMER']//..)[1]                                                                                       
+
+2023/10/25 11:25:49:2549 - [INFO] - [INFO] STEP 85:Successfully clicked the Upload Target Customer Button.                                                                                       
+
+2023/10/25 11:25:49:2549 - [DBUG]  Found element by Xpath : //div[text()='Bulk Upload']                                                                                       
+
+2023/10/25 11:25:49:2549 - [DBUG]  Found element by Xpath : //input[@id='campaignLeadsType']//..                                                                                       
+
+2023/10/25 11:25:49:2549 - [DBUG]  Found element by Xpath : //input[@id='campaignLeadsType']//..                                                                                       
+
+2023/10/25 11:25:50:2550 - [DBUG] Clicked element by Xpath : //input[@id='campaignLeadsType']//..                                                                                       
+
+2023/10/25 11:25:50:2550 - [DBUG]  Found element by Xpath : //div[text()='Leads Only']                                                                                       
+
+2023/10/25 11:25:50:2550 - [DBUG]  Found element by Xpath : //div[text()='Leads Only']                                                                                       
+
+2023/10/25 11:25:50:2550 - [DBUG] Clicked element by Xpath : //div[text()='Leads Only']                                                                                       
+
+2023/10/25 11:25:50:2550 - [INFO] - [INFO] STEP 86:Successfully selected Campaign Leads Type Leads Only                                                                                       
+
+2023/10/25 11:25:50:2550 - [DBUG]  Found element by Xpath : (//input[@id='templateMaterials']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:51:2551 - [DBUG] Clicked element by Xpath : (//input[@id='templateMaterials']//..//div)[1]                                                                                       
+
+2023/10/25 11:25:51:2551 - [INFO] - [INFO] STEP 87:Successfully clicked the upload button for the bulk upload.                                                                                       
+
+2023/10/25 11:26:00:260  - [DBUG]  Found element by Xpath : (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:26:00:260  - [DBUG]  Found element by Xpath : (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:26:00:260  - [DBUG] Text: Target example MFC.xlsx retrieved successfully from eloement - (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:26:00:260  - [INFO] - [INFO] STEP 88:Target example MFC.xlsx                                                                                       
+
+2023/10/25 11:26:01:261  - [DBUG]  Found element by Xpath : (//span[text()='CONFIRM']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:26:01:261  - [DBUG] Clicked element by Xpath : (//span[text()='CONFIRM']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:26:01:261  - [INFO] - [INFO] STEP 90:Successfully clicked the Confirm Button.                                                                                       
+
+2023/10/25 11:26:02:262  - [DBUG]  Found element by Xpath : (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:26:02:262  - [DBUG]  Found element by Xpath : (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:26:02:262  - [DBUG] Text: 4 customers uploaded successfully retrieved successfully from eloement - (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:26:03:263  - [INFO] - VALIDATION: 92:Expected Value 4 customers uploaded successfully                                                                                       
+
+2023/10/25 11:26:03:263  - [INFO] - [INFO] STEP 93:successfully' with 4 customers uploaded successfully                                                                                       
+
+2023/10/25 11:26:04:264  - [DBUG]  Found element by Xpath : (//span[text()='SUBMIT']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:26:04:264  - [DBUG]  Found element by Xpath : (//span[text()='SUBMIT']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:26:04:264  - [DBUG] Clicked element by Xpath : (//span[text()='SUBMIT']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:26:04:264  - [INFO] - [INFO] STEP 95:Successfully clicked the Submit Button.                                                                                       
+
+2023/10/25 11:26:07:267  - [DBUG]  Found element by Xpath : //div[@class='omd-modal-confirm-body']                                                                                       
+
+2023/10/25 11:26:07:267  - [DBUG]  Found element by Xpath : //div[@class='omd-modal-confirm-body']//..//span[text()='YES']                                                                                       
+
+2023/10/25 11:26:07:267  - [DBUG] Clicked element by Xpath : //div[@class='omd-modal-confirm-body']//..//span[text()='YES']                                                                                       
+
+2023/10/25 11:26:07:267  - [INFO] - [INFO] STEP 97:Successfully clicked OK in alert pop-up.                                                                                       
+
+2023/10/25 11:26:09:269  - [DBUG]  Found element by Xpath : //div[text()='Submit Status']                                                                                       
+
+2023/10/25 11:26:09:269  - [DBUG]  Found element by Xpath : (//div[text()='Submit Status']//..//..//div//div)[4]                                                                                       
+
+2023/10/25 11:26:09:269  - [DBUG] Text: Submitted Successfully retrieved successfully from eloement - (//div[text()='Submit Status']//..//..//div//div)[4]                                                                                       
+
+2023/10/25 11:26:09:269  - [INFO] - VALIDATION: 98:Successfullybr Expected Value Submitted Successfully                                                                                       
+
+2023/10/25 11:26:09:269  - [DBUG]  Found element by Xpath : //span[text()='DONE']//..//..//button                                                                                       
+
+2023/10/25 11:26:09:269  - [DBUG]  Found element by Xpath : //span[text()='DONE']//..//..//button                                                                                       
+
+2023/10/25 11:26:10:2610 - [DBUG] Clicked element by Xpath : //span[text()='DONE']//..//..//button                                                                                       
+
+2023/10/25 11:26:10:2610 - [INFO] - [INFO] STEP 99:Successfully clicked the Done Button.                                                                                       
+
+2023/10/25 11:26:11:2611 - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:26:11:2611 - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:26:11:2611 - [DBUG] Clicked element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:26:11:2611 - [INFO] - [INFO] STEP 101:Successfully clicked the Campaign Sidebar.                                                                                       
+
+2023/10/25 11:26:11:2611 - [DBUG]  Found element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:26:11:2611 - [INFO] - [INFO] STEP 102:Successfully validated the Campaign List Header.                                                                                       
+
+2023/10/25 11:26:13:2613 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:26:13:2613 - [DBUG] Executing test - Edit_Campaign | 7 of 25                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Status 2 ' not found                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Product 1 ' not found                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Product 2 ' not found                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Product 3 ' not found                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Priority ' not found                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Allocation Group ' not found                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Additional Information ' not found                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Mandatory Campaign ' not found                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Re-allocate Leads ' not found                                                                                       
+
+2023/10/25 11:26:13:2613 - [EROR]  Parameter ' Engagement Preference ' not found                                                                                       
+
+2023/10/25 11:26:14:2614 - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:26:14:2614 - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:26:15:2615 - [DBUG] Clicked element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:26:15:2615 - [INFO] - [INFO] STEP 105:Successfully clicked the Campaign Sidebar.                                                                                       
+
+2023/10/25 11:26:15:2615 - [DBUG]  Found element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:26:15:2615 - [INFO] - [INFO] STEP 106:Successfully validated the Campaign List Header.                                                                                       
+
+2023/10/25 11:26:17:2617 - [DBUG]  Found element by Xpath : (//div[@class='leadsTablePage']//span[@class='anticon filterIcon cursor'])[1]                                                                                       
+
+2023/10/25 11:26:17:2617 - [DBUG]  Found element by Xpath : (//div[@class='leadsTablePage']//span[@class='anticon filterIcon cursor'])[1]                                                                                       
+
+2023/10/25 11:26:17:2617 - [DBUG] Clicked element by Xpath : (//div[@class='leadsTablePage']//span[@class='anticon filterIcon cursor'])[1]                                                                                       
+
+2023/10/25 11:26:17:2617 - [INFO] - [INFO] STEP 108:Successfully clicked the Filter button.                                                                                       
+
+2023/10/25 11:26:18:2618 - [DBUG]  Found element by Xpath : (//div[text()='CAMPAIGN NAME']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:18:2618 - [DBUG]  Found element by Xpath : (//div[text()='CATEGORIZATION']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:18:2618 - [DBUG]  Found element by Xpath : (//div[text()='START DATE - END DATE']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:18:2618 - [DBUG]  Found element by Xpath : (//div[text()='PRIORITY']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:18:2618 - [DBUG]  Found element by Xpath : (//div[text()='DATE CREATED']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:18:2618 - [DBUG]  Found element by Xpath : (//div[text()='CREATOR']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:18:2618 - [DBUG]  Found element by Xpath : (//div[text()='STATUS']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:18:2618 - [INFO] - [INFO] STEP 110:Successfully validated all filter option list is visible                                                                                       
+
+2023/10/25 11:26:18:2618 - [DBUG]  Found element by Xpath : //span[text()='Automation Campaign MFC']//..//span[@class='omd-checkbox']                                                                                       
+
+2023/10/25 11:26:19:2619 - [DBUG]  Found element by Xpath : //span[text()='Automation Campaign MFC']//..//span[@class='omd-checkbox']                                                                                       
+
+2023/10/25 11:26:19:2619 - [DBUG] Clicked element by Xpath : //span[text()='Automation Campaign MFC']//..//span[@class='omd-checkbox']                                                                                       
+
+2023/10/25 11:26:19:2619 - [INFO] - [INFO] STEP 112:the filter Campaign Name 'Automation Campaign MFC' checkbox.                                                                                       
+
+2023/10/25 11:26:19:2619 - [DBUG]  Found element by Xpath : (//div[text()='CAMPAIGN NAME']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:19:2619 - [DBUG] Clicked element by Xpath : (//div[text()='CAMPAIGN NAME']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:21:2621 - [DBUG]  Found element by Xpath : (//div[text()='CATEGORIZATION']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:22:2622 - [DBUG] Clicked element by Xpath : (//div[text()='CATEGORIZATION']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:22:2622 - [DBUG]  Found element by Xpath : //span[text()='Up-sell']//..//span[@class='omd-checkbox']                                                                                       
+
+2023/10/25 11:26:22:2622 - [DBUG]  Found element by Xpath : //span[text()='Up-sell']//..//span[@class='omd-checkbox']                                                                                       
+
+2023/10/25 11:26:22:2622 - [DBUG] Clicked element by Xpath : //span[text()='Up-sell']//..//span[@class='omd-checkbox']                                                                                       
+
+2023/10/25 11:26:22:2622 - [INFO] - [INFO] STEP 113:click the filter Categorization 'Up-sell' checkbox.                                                                                       
+
+2023/10/25 11:26:23:2623 - [DBUG]  Found element by Xpath : (//div[text()='CATEGORIZATION']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:23:2623 - [DBUG] Clicked element by Xpath : (//div[text()='CATEGORIZATION']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:25:2625 - [DBUG]  Found element by Xpath : (//div[text()='STATUS']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:25:2625 - [DBUG] Clicked element by Xpath : (//div[text()='STATUS']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:25:2625 - [DBUG]  Found element by Xpath : //span[text()='Active']//..//span[@class='omd-checkbox']                                                                                       
+
+2023/10/25 11:26:25:2625 - [DBUG]  Found element by Xpath : //span[text()='Active']//..//span[@class='omd-checkbox']                                                                                       
+
+2023/10/25 11:26:26:2626 - [DBUG] Clicked element by Xpath : //span[text()='Active']//..//span[@class='omd-checkbox']                                                                                       
+
+2023/10/25 11:26:26:2626 - [INFO] - [INFO] STEP 115:Successfully click the filter Status 'Active' checkbox.                                                                                       
+
+2023/10/25 11:26:26:2626 - [DBUG]  Found element by Xpath : (//div[text()='STATUS']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:26:2626 - [DBUG] Clicked element by Xpath : (//div[text()='STATUS']//..//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:28:2628 - [DBUG]  Found element by Xpath : (//span[text()='APPLY']//..//..//button[@type='button'])[1]                                                                                       
+
+2023/10/25 11:26:28:2628 - [DBUG]  Found element by Xpath : (//span[text()='APPLY']//..//..//button[@type='button'])[1]                                                                                       
+
+2023/10/25 11:26:29:2629 - [DBUG] Clicked element by Xpath : (//span[text()='APPLY']//..//..//button[@type='button'])[1]                                                                                       
+
+2023/10/25 11:26:29:2629 - [INFO] - [INFO] STEP 117:Successfully click the filter Apply button.                                                                                       
+
+2023/10/25 11:26:33:2633 - [DBUG]  Found element by Xpath : (//table//span[@class='anticon'])[1]                                                                                       
+
+2023/10/25 11:26:33:2633 - [DBUG]  Found element by Xpath : (//table//span[@class='anticon'])[1]                                                                                       
+
+2023/10/25 11:26:33:2633 - [DBUG] Clicked element by Xpath : (//table//span[@class='anticon'])[1]                                                                                       
+
+2023/10/25 11:26:33:2633 - [INFO] - [INFO] STEP 119:Successfully clicked the Action  Edit button.                                                                                       
+
+2023/10/25 11:26:34:2634 - [DBUG]  Found element by Xpath : //div[text()='Edit Campaign']                                                                                       
+
+2023/10/25 11:26:34:2634 - [DBUG]  Found element by Xpath : (//label[@for='endDate']//..//div)[1]                                                                                       
+
+2023/10/25 11:26:34:2634 - [DBUG] Clicked element by Xpath : (//label[@for='endDate']//..//div)[1]                                                                                       
+
+2023/10/25 11:26:34:2634 - [INFO] - [INFO] STEP 120:Successfully clicked the End Dropdown.                                                                                       
+
+2023/10/25 11:26:35:2635 - [INFO] - [INFO] STEP 121:Successfully captured startDate '2023-10-25'                                                                                       
+
+2023/10/25 11:26:37:2637 - [DBUG] Scrolled to element - (//span[text()='NEXT']//..//..//button)[1]                                                                                       
+
+2023/10/25 11:26:37:2637 - [DBUG]  Found element by Xpath : (//span[text()='NEXT']//..//..//button)[1]                                                                                       
+
+2023/10/25 11:26:38:2638 - [DBUG] Clicked element by Xpath : (//span[text()='NEXT']//..//..//button)[1]                                                                                       
+
+2023/10/25 11:26:38:2638 - [INFO] - [INFO] STEP 122:Successfully captured the campaign.                                                                                       
+
+2023/10/25 11:26:38:2638 - [DBUG]  Found element by Xpath : //div[@class='campaign-info campaignStepShow']//div[text()='Marketing Material']                                                                                       
+
+2023/10/25 11:26:38:2638 - [DBUG]  Found element by Xpath : (//div[text()='Upload Files']//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:38:2638 - [DBUG] Clicked element by Xpath : (//div[text()='Upload Files']//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:26:43:2643 - [DBUG]  Found element by Xpath : (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:26:43:2643 - [DBUG]  Found element by Xpath : (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:26:43:2643 - [DBUG] Text: AMS Environment Setup.pdf retrieved successfully from eloement - (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:26:47:2647 - [DBUG]  Found element by Xpath : //div[text()='Marketing Material']//..//..//span[text()='NEXT']                                                                                       
+
+2023/10/25 11:26:47:2647 - [DBUG]  Found element by Xpath : //div[text()='Marketing Material']//..//..//span[text()='NEXT']                                                                                       
+
+2023/10/25 11:26:47:2647 - [DBUG] Clicked element by Xpath : //div[text()='Marketing Material']//..//..//span[text()='NEXT']                                                                                       
+
+2023/10/25 11:26:47:2647 - [INFO] - [INFO] STEP 124:Successfully uploaded the file AMS Environment Setup.pdf                                                                                       
+
+2023/10/25 11:26:52:2652 - [DBUG] Scrolled to element - (//span[text()='CONFIRM']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:26:52:2652 - [DBUG]  Found element by Xpath : (//span[text()='CONFIRM']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:26:52:2652 - [DBUG] Clicked element by Xpath : (//span[text()='CONFIRM']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:26:52:2652 - [INFO] - [INFO] STEP 126:Successfully validated all the Campaign Information.                                                                                       
+
+2023/10/25 11:26:53:2653 - [DBUG]  Found element by Xpath : (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:26:53:2653 - [DBUG]  Found element by Xpath : (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:26:53:2653 - [DBUG] Text: Launched successfully and you can start uploading target customers. retrieved successfully from eloement - (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:26:53:2653 - [INFO] - [INFO] STEP 128:successfully and you can start uploading target customers.                                                                                       
+
+2023/10/25 11:26:54:2654 - [DBUG]  Found element by Xpath : (//div[text()='Automation Campaign MFC']//..//span)[1]                                                                                       
+
+2023/10/25 11:26:54:2654 - [DBUG] Text: High retrieved successfully from eloement - (//div[text()='Automation Campaign MFC']//..//span)[1]                                                                                       
+
+2023/10/25 11:26:54:2654 - [DBUG]  Found element by Xpath : (//div[text()='Automation Campaign MFC']//..//span)[1]                                                                                       
+
+2023/10/25 11:26:54:2654 - [DBUG] Text: High retrieved successfully from eloement - (//div[text()='Automation Campaign MFC']//..//span)[1]                                                                                       
+
+2023/10/25 11:26:54:2654 - [DBUG]  Found element by Xpath : (//div[text()='Campaign code']//..//div)[2]                                                                                       
+
+2023/10/25 11:26:54:2654 - [DBUG] Text: 20231025004 retrieved successfully from eloement - (//div[text()='Campaign code']//..//div)[2]                                                                                       
+
+2023/10/25 11:26:54:2654 - [DBUG]  Found element by Xpath : (//div[text()='Automation Campaign MFC']//..//span)[2]                                                                                       
+
+2023/10/25 11:26:54:2654 - [DBUG] Text: Active retrieved successfully from eloement - (//div[text()='Automation Campaign MFC']//..//span)[2]                                                                                       
+
+2023/10/25 11:26:54:2654 - [INFO] - VALIDATION: 130: Actual Value Activebr Expected Value Active                                                                                       
+
+2023/10/25 11:26:54:2654 - [INFO] - [INFO] STEP 131:Successfully validated the Campaign Status.                                                                                       
+
+2023/10/25 11:26:55:2655 - [DBUG]  Found element by Xpath : (//span[text()='Target Customer']//..//..//..)[1]                                                                                       
+
+2023/10/25 11:26:55:2655 - [DBUG]  Found element by Xpath : (//span[text()='Target Customer']//..//..//..)[1]                                                                                       
+
+2023/10/25 11:26:55:2655 - [DBUG] Clicked element by Xpath : (//span[text()='Target Customer']//..//..//..)[1]                                                                                       
+
+2023/10/25 11:26:55:2655 - [INFO] - [INFO] STEP 133:Successfully navigated to Target Customer Tab.                                                                                       
+
+2023/10/25 11:26:56:2656 - [DBUG]  Found element by Xpath : (//span[text()='UPLOAD TARGET CUSTOMER']//..)[1]                                                                                       
+
+2023/10/25 11:26:56:2656 - [DBUG]  Found element by Xpath : (//span[text()='UPLOAD TARGET CUSTOMER']//..)[1]                                                                                       
+
+2023/10/25 11:26:56:2656 - [DBUG] Clicked element by Xpath : (//span[text()='UPLOAD TARGET CUSTOMER']//..)[1]                                                                                       
+
+2023/10/25 11:26:56:2656 - [INFO] - [INFO] STEP 135:Successfully clicked the Upload Target Customer Button.                                                                                       
+
+2023/10/25 11:26:56:2656 - [DBUG]  Found element by Xpath : //div[text()='Bulk Upload']                                                                                       
+
+2023/10/25 11:26:56:2656 - [DBUG]  Found element by Xpath : //input[@id='campaignLeadsType']//..                                                                                       
+
+2023/10/25 11:26:56:2656 - [DBUG]  Found element by Xpath : //input[@id='campaignLeadsType']//..                                                                                       
+
+2023/10/25 11:26:56:2656 - [DBUG] Clicked element by Xpath : //input[@id='campaignLeadsType']//..                                                                                       
+
+2023/10/25 11:26:57:2657 - [DBUG]  Found element by Xpath : //div[text()='Leads Only']                                                                                       
+
+2023/10/25 11:26:57:2657 - [DBUG]  Found element by Xpath : //div[text()='Leads Only']                                                                                       
+
+2023/10/25 11:26:58:2658 - [DBUG] Clicked element by Xpath : //div[text()='Leads Only']                                                                                       
+
+2023/10/25 11:26:58:2658 - [INFO] - [INFO] STEP 136:Successfully selected Campaign Leads Type Leads Only                                                                                       
+
+2023/10/25 11:26:58:2658 - [DBUG]  Found element by Xpath : (//input[@id='templateMaterials']//..//div)[1]                                                                                       
+
+2023/10/25 11:26:58:2658 - [DBUG] Clicked element by Xpath : (//input[@id='templateMaterials']//..//div)[1]                                                                                       
+
+2023/10/25 11:26:58:2658 - [INFO] - [INFO] STEP 137:Successfully clicked the upload button for the bulk upload.                                                                                       
+
+2023/10/25 11:27:07:277  - [DBUG]  Found element by Xpath : (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:27:07:277  - [DBUG]  Found element by Xpath : (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:27:07:277  - [DBUG] Text: Target example MFC.xlsx retrieved successfully from eloement - (//div[@class='omd-upload-list-item-name omd-upload-hasFileSize']//span)[1]                                                                                       
+
+2023/10/25 11:27:07:277  - [INFO] - [INFO] STEP 138:Target example MFC.xlsx                                                                                       
+
+2023/10/25 11:27:08:278  - [DBUG]  Found element by Xpath : (//span[text()='CONFIRM']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:27:08:278  - [DBUG] Clicked element by Xpath : (//span[text()='CONFIRM']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:27:08:278  - [INFO] - [INFO] STEP 140:Successfully clicked the Confirm Button.                                                                                       
+
+2023/10/25 11:27:09:279  - [DBUG]  Found element by Xpath : (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:27:09:279  - [DBUG]  Found element by Xpath : (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:27:09:279  - [DBUG] Text: 4 customers have been already uploaded retrieved successfully from eloement - (//div[@class='omd-message-custom-content omd-message-success']//div//div)[1]                                                                                       
+
+2023/10/25 11:27:10:2710 - [INFO] - VALIDATION: 142:Expected Value 4 customers have been already uploaded                                                                                       
+
+2023/10/25 11:27:10:2710 - [INFO] - [INFO] STEP 143:uploaded' with 4 customers have been already uploaded                                                                                       
+
+2023/10/25 11:27:12:2712 - [DBUG]  Found element by Xpath : (//span[text()='SUBMIT']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:27:12:2712 - [DBUG]  Found element by Xpath : (//span[text()='SUBMIT']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:27:12:2712 - [DBUG] Clicked element by Xpath : (//span[text()='SUBMIT']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:27:12:2712 - [INFO] - [INFO] STEP 145:Successfully clicked the Submit Button.                                                                                       
+
+2023/10/25 11:27:14:2714 - [DBUG]  Found element by Xpath : //div[@class='omd-modal-confirm-body']                                                                                       
+
+2023/10/25 11:27:14:2714 - [DBUG]  Found element by Xpath : //div[@class='omd-modal-confirm-body']//..//span[text()='YES']                                                                                       
+
+2023/10/25 11:27:15:2715 - [DBUG] Clicked element by Xpath : //div[@class='omd-modal-confirm-body']//..//span[text()='YES']                                                                                       
+
+2023/10/25 11:27:15:2715 - [INFO] - [INFO] STEP 147:Successfully clicked OK in alert pop-up.                                                                                       
+
+2023/10/25 11:27:15:2715 - [DBUG]  Found element by Xpath : //div[text()='Submit Status']                                                                                       
+
+2023/10/25 11:27:15:2715 - [DBUG]  Found element by Xpath : (//div[text()='Submit Status']//..//..//div//div)[4]                                                                                       
+
+2023/10/25 11:27:15:2715 - [DBUG] Text: Submitted Successfully retrieved successfully from eloement - (//div[text()='Submit Status']//..//..//div//div)[4]                                                                                       
+
+2023/10/25 11:27:15:2715 - [INFO] - VALIDATION: 148:Successfullybr Expected Value Submitted Successfully                                                                                       
+
+2023/10/25 11:27:15:2715 - [DBUG]  Found element by Xpath : //span[text()='DONE']//..//..//button                                                                                       
+
+2023/10/25 11:27:15:2715 - [DBUG]  Found element by Xpath : //span[text()='DONE']//..//..//button                                                                                       
+
+2023/10/25 11:27:16:2716 - [DBUG] Clicked element by Xpath : //span[text()='DONE']//..//..//button                                                                                       
+
+2023/10/25 11:27:16:2716 - [INFO] - [INFO] STEP 149:Successfully clicked the Done Button.                                                                                       
+
+2023/10/25 11:27:17:2717 - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:27:17:2717 - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:27:17:2717 - [DBUG] Clicked element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:27:17:2717 - [INFO] - [INFO] STEP 151:Successfully clicked the Campaign Sidebar.                                                                                       
+
+2023/10/25 11:27:17:2717 - [DBUG]  Found element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:27:17:2717 - [INFO] - [INFO] STEP 152:Successfully validated the Campaign List Header.                                                                                       
+
+2023/10/25 11:27:19:2719 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:27:19:2719 - [DBUG] Executing test - LogOut_DAE | 8 of 25                                                                                       
+
+2023/10/25 11:27:19:2719 - [DBUG]  Found element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:27:19:2719 - [DBUG]  Found element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:27:20:2720 - [DBUG] Clicked element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:27:20:2720 - [INFO] - [INFO] STEP 155:Successfully clicked the user profile dropDown.                                                                                       
+
+2023/10/25 11:27:20:2720 - [DBUG]  Found element by Xpath : //span[text()='Logout']                                                                                       
+
+2023/10/25 11:27:20:2720 - [INFO] - [INFO] STEP 157:Successfully verified the logOut button is visible.                                                                                       
+
+2023/10/25 11:27:21:2721 - [DBUG]  Found element by Xpath : //span[text()='Logout']                                                                                       
+
+2023/10/25 11:27:21:2721 - [DBUG] Clicked element by Xpath : //span[text()='Logout']                                                                                       
+
+2023/10/25 11:27:21:2721 - [INFO] - [INFO] STEP 159:Successfully clicked the logOut button.                                                                                       
+
+2023/10/25 11:27:24:2724 - [DBUG]  Found element by Xpath : //div[@class='loggedout form-shadowed form-thin form-register']//a[text()='Log in again']                                                                                       
+
+2023/10/25 11:27:24:2724 - [DBUG] Text: Log in again retrieved successfully from eloement - //div[@class='loggedout form-shadowed form-thin form-register']//a[text()='Log in again']                                                                                       
+
+2023/10/25 11:27:24:2724 - [INFO] - VALIDATION: 160:validated the user has logged out.  Log in again                                                                                       
+
+2023/10/25 11:27:24:2724 - [INFO] - [INFO] STEP 161:validated the user 'MFCCAMPAIGNMAN' has logged out.                                                                                       
+
+2023/10/25 11:27:26:2726 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:27:26:2726 - [DBUG] Executing test - Login_DAE | 9 of 25                                                                                       
+
+2023/10/25 11:28:06:286  - [INFO] - [INFO] STEP 164:Successfully navigated to OM| DAE SSO Site.                                                                                       
+
+2023/10/25 11:28:08:288  - [DBUG]  Found element by Xpath : //div[@class='divnotNewRegisteredUser ']                                                                                       
+
+2023/10/25 11:28:08:288  - [INFO] - [INFO] STEP 166:Successfully navigated to OM| DAE - LogIn page.                                                                                       
+
+2023/10/25 11:28:08:288  - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:28:08:288  - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:28:08:288  - [DBUG] Entered Text of: Adviser7 to: //input[@id='username']                                                                                       
+
+2023/10/25 11:28:08:288  - [INFO] - [INFO] STEP 168:Successfully entered the Username Adviser7                                                                                       
+
+2023/10/25 11:28:08:288  - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:28:08:288  - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:28:08:288  - [DBUG] Entered Text of: Password@01 to: //input[@id='password']                                                                                       
+
+2023/10/25 11:28:08:288  - [INFO] - [INFO] STEP 169:Successfully entered the Password Password@01                                                                                       
+
+2023/10/25 11:28:08:288  - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:28:08:288  - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:28:09:289  - [DBUG] Clicked element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:28:09:289  - [INFO] - [INFO] STEP 170:Successfully clicked the LogIn Button.                                                                                       
+
+2023/10/25 11:28:11:2811 - [DBUG]  Found element by Xpath : //li[@title='Workbench']                                                                                       
+
+2023/10/25 11:28:11:2811 - [INFO] - [INFO] STEP 171:Successfully logged In.                                                                                       
+
+2023/10/25 11:28:13:2813 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:28:13:2813 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:28:13:2813 - [DBUG] Executing test - Create_Campaign_Adviser | 10 of 25                                                                                       
+
+2023/10/25 11:28:13:2813 - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:28:13:2813 - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:28:13:2813 - [DBUG] Clicked element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:28:13:2813 - [INFO] - [INFO] STEP 174:Successfully clicked the Campaign Sidebar.                                                                                       
+
+2023/10/25 11:28:14:2814 - [DBUG]  Found element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:28:14:2814 - [DBUG]  Found element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:28:14:2814 - [DBUG] Clicked element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:28:14:2814 - [INFO] - [INFO] STEP 175:Successfully clicked the Campaign Sidebar.                                                                                       
+
+2023/10/25 11:28:15:2815 - [DBUG]  Found element by Xpath : //span[contains(text(),'CREATE NEW')]                                                                                       
+
+2023/10/25 11:28:15:2815 - [DBUG]  Found element by Xpath : //span[contains(text(),'CREATE NEW')]                                                                                       
+
+2023/10/25 11:28:15:2815 - [EROR]  Failed to click on element by Xpath - Element <span> is not clickable at point (1701,328) because another element <div id="wfx_popup_glass" class="WFEMGBB"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 1117, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4da39cd3-e3a9-4bea-98ab-3c0009dd4d3b                                                                                       
+
+2023/10/25 11:28:16:2816 - [FAIL]  STEP 178:Failed to click the Create New Button.                                                                                       
+
+2023/10/25 11:28:16:2816 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:28:16:2816 - [DBUG] Executing test - LogOut_DAE | 11 of 25                                                                                       
+
+2023/10/25 11:28:17:2817 - [DBUG]  Found element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:28:17:2817 - [DBUG]  Found element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:28:17:2817 - [EROR]  Failed to click on element by Xpath - Element <span class="anticon"> is not clickable at point (1752,35) because another element <div id="wfx_popup_glass" class="WFEMGBB"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 1117, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4da39cd3-e3a9-4bea-98ab-3c0009dd4d3b                                                                                       
+
+2023/10/25 11:28:17:2817 - [FAIL]  STEP 180:Failed to click the user profile dropDown.                                                                                       
+
+2023/10/25 11:28:17:2817 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:28:17:2817 - [DBUG] Executing test - Login_DAE | 12 of 25                                                                                       
+
+2023/10/25 11:28:57:2857 - [INFO] - [INFO] STEP 181:Successfully navigated to OM| DAE SSO Site.                                                                                       
+
+2023/10/25 11:28:59:2859 - [DBUG]  Found element by Xpath : //div[@class='divnotNewRegisteredUser ']                                                                                       
+
+2023/10/25 11:28:59:2859 - [INFO] - [INFO] STEP 183:Successfully navigated to OM| DAE - LogIn page.                                                                                       
+
+2023/10/25 11:28:59:2859 - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:28:59:2859 - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:28:59:2859 - [DBUG] Entered Text of: Adviser7 to: //input[@id='username']                                                                                       
+
+2023/10/25 11:28:59:2859 - [INFO] - [INFO] STEP 185:Successfully entered the Username Adviser7                                                                                       
+
+2023/10/25 11:29:00:290  - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:29:00:290  - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:29:00:290  - [DBUG] Entered Text of: Password@01 to: //input[@id='password']                                                                                       
+
+2023/10/25 11:29:00:290  - [INFO] - [INFO] STEP 186:Successfully entered the Password Password@01                                                                                       
+
+2023/10/25 11:29:00:290  - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:29:00:290  - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:29:01:291  - [DBUG] Clicked element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:29:01:291  - [INFO] - [INFO] STEP 187:Successfully clicked the LogIn Button.                                                                                       
+
+2023/10/25 11:29:03:293  - [DBUG]  Found element by Xpath : //li[@title='Workbench']                                                                                       
+
+2023/10/25 11:29:03:293  - [INFO] - [INFO] STEP 188:Successfully logged In.                                                                                       
+
+2023/10/25 11:29:05:295  - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:29:05:295  - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:29:05:295  - [DBUG] Executing test - Create_Campaign_Adviser | 13 of 25                                                                                       
+
+2023/10/25 11:29:05:295  - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:29:05:295  - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:29:05:295  - [DBUG] Clicked element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:29:05:295  - [INFO] - [INFO] STEP 191:Successfully clicked the Campaign Sidebar.                                                                                       
+
+2023/10/25 11:29:06:296  - [DBUG]  Found element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:29:06:296  - [DBUG]  Found element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:29:06:296  - [DBUG] Clicked element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:29:06:296  - [INFO] - [INFO] STEP 192:Successfully clicked the Campaign Sidebar.                                                                                       
+
+2023/10/25 11:29:07:297  - [DBUG]  Found element by Xpath : //span[contains(text(),'CREATE NEW')]                                                                                       
+
+2023/10/25 11:29:07:297  - [DBUG]  Found element by Xpath : //span[contains(text(),'CREATE NEW')]                                                                                       
+
+2023/10/25 11:29:07:297  - [EROR]  Failed to click on element by Xpath - Element <span> is not clickable at point (1701,328) because another element <div id="wfx_popup_glass" class="WFEMGBB"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 2095, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5d750e59-44df-464a-8698-43f6504bd5d1                                                                                       
+
+2023/10/25 11:29:07:297  - [FAIL]  STEP 195:Failed to click the Create New Button.                                                                                       
+
+2023/10/25 11:29:07:297  - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:29:07:297  - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:29:07:297  - [DBUG] Executing test - Edit_Campaign | 14 of 25                                                                                       
+
+2023/10/25 11:29:08:298  - [EROR]  Parameter ' Status 2 ' not found                                                                                       
+
+2023/10/25 11:29:08:298  - [EROR]  Parameter ' Product 1 ' not found                                                                                       
+
+2023/10/25 11:29:08:298  - [EROR]  Parameter ' Product 2 ' not found                                                                                       
+
+2023/10/25 11:29:08:298  - [EROR]  Parameter ' Product 3 ' not found                                                                                       
+
+2023/10/25 11:29:08:298  - [EROR]  Parameter ' Priority ' not found                                                                                       
+
+2023/10/25 11:29:08:298  - [EROR]  Parameter ' Allocation Group ' not found                                                                                       
+
+2023/10/25 11:29:08:298  - [EROR]  Parameter ' Additional Information ' not found                                                                                       
+
+2023/10/25 11:29:08:298  - [EROR]  Parameter ' Mandatory Campaign ' not found                                                                                       
+
+2023/10/25 11:29:08:298  - [EROR]  Parameter ' Re-allocate Leads ' not found                                                                                       
+
+2023/10/25 11:29:08:298  - [EROR]  Parameter ' Engagement Preference ' not found                                                                                       
+
+2023/10/25 11:29:09:299  - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:29:09:299  - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:29:09:299  - [EROR]  Failed to click on element by Xpath - Element <li class="om-ums-menu-item om-ums-menu-item-selected"> is not clickable at point (40,405) because another element <iframe id="16982261458471316750035" class="WFEMPUB WFEMEDC" src="https://eu.whatfix.com/3f9ac5c6-21d3-4140-9ecb-d9d46ec6b216/tasker.html?id=16982261458471316750035&via=embed"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 2095, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5d750e59-44df-464a-8698-43f6504bd5d1                                                                                       
+
+2023/10/25 11:29:09:299  - [FAIL]  STEP 197:                                                                                        
+
+2023/10/25 11:29:09:299  - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:29:09:299  - [DBUG] Executing test - LogOut_DAE | 15 of 25                                                                                       
+
+2023/10/25 11:29:10:2910 - [DBUG]  Found element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:29:10:2910 - [DBUG]  Found element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:29:10:2910 - [EROR]  Failed to click on element by Xpath - Element <span class="anticon"> is not clickable at point (1752,35) because another element <div id="wfx_popup_glass" class="WFEMGBB"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 2095, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5d750e59-44df-464a-8698-43f6504bd5d1                                                                                       
+
+2023/10/25 11:29:10:2910 - [FAIL]  STEP 199:Failed to click the user profile dropDown.                                                                                       
+
+2023/10/25 11:29:10:2910 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:29:10:2910 - [DBUG] Executing test - Login_DAE | 16 of 25                                                                                       
+
+2023/10/25 11:29:53:2953 - [INFO] - [INFO] STEP 200:Successfully navigated to OM| DAE SSO Site.                                                                                       
+
+2023/10/25 11:29:54:2954 - [DBUG]  Found element by Xpath : //div[@class='divnotNewRegisteredUser ']                                                                                       
+
+2023/10/25 11:29:54:2954 - [INFO] - [INFO] STEP 202:Successfully navigated to OM| DAE - LogIn page.                                                                                       
+
+2023/10/25 11:29:55:2955 - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:29:55:2955 - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:29:55:2955 - [DBUG] Entered Text of: LYMANUN to: //input[@id='username']                                                                                       
+
+2023/10/25 11:29:55:2955 - [INFO] - [INFO] STEP 204:Successfully entered the Username LYMANUN                                                                                       
+
+2023/10/25 11:29:55:2955 - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:29:55:2955 - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:29:55:2955 - [DBUG] Entered Text of: Password@01 to: //input[@id='password']                                                                                       
+
+2023/10/25 11:29:55:2955 - [INFO] - [INFO] STEP 205:Successfully entered the Password Password@01                                                                                       
+
+2023/10/25 11:29:55:2955 - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:29:55:2955 - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:29:56:2956 - [DBUG] Clicked element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:29:56:2956 - [INFO] - [INFO] STEP 206:Successfully clicked the LogIn Button.                                                                                       
+
+2023/10/25 11:29:58:2958 - [DBUG]  Found element by Xpath : //li[@title='Workbench']                                                                                       
+
+2023/10/25 11:29:58:2958 - [INFO] - [INFO] STEP 207:Successfully logged In.                                                                                       
+
+2023/10/25 11:30:00:300  - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:30:00:300  - [DBUG] Executing test - Revive_Campaign | 17 of 25                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Category ' not found                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Product 1 ' not found                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Product 2 ' not found                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Product 3 ' not found                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Priority ' not found                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Allocation Group ' not found                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Additional Information ' not found                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Mandatory Campaign ' not found                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Re-allocate Leads ' not found                                                                                       
+
+2023/10/25 11:30:00:300  - [EROR]  Parameter ' Engagement Preference ' not found                                                                                       
+
+2023/10/25 11:30:01:301  - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:30:01:301  - [DBUG]  Found element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:30:02:302  - [DBUG] Clicked element by Xpath : //li[@title='Campaigns']                                                                                       
+
+2023/10/25 11:30:02:302  - [INFO] - [INFO] STEP 210:Successfully clicked the Campaign Sidebar.                                                                                       
+
+2023/10/25 11:30:02:302  - [DBUG]  Found element by Xpath : //span[text()='Campaign List']                                                                                       
+
+2023/10/25 11:30:02:302  - [INFO] - [INFO] STEP 211:Successfully validated the Campaign List Header.                                                                                       
+
+2023/10/25 11:30:05:305  - [DBUG]  Found element by Xpath : (//div[@class='leadsTablePage']//span[@class='anticon filterIcon cursor'])[1]                                                                                       
+
+2023/10/25 11:30:05:305  - [DBUG]  Found element by Xpath : (//div[@class='leadsTablePage']//span[@class='anticon filterIcon cursor'])[1]                                                                                       
+
+2023/10/25 11:30:05:305  - [EROR]  Failed to click on element by Xpath - Element <span class="anticon filterIcon cursor"> is not clickable at point (155,399) because another element <iframe id="1698226201625910213352" class="WFEMPUB WFEMEDC" src="https://eu.whatfix.com/3f9ac5c6-21d3-4140-9ecb-d9d46ec6b216/tasker.html?id=1698226201625910213352&via=embed"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 3071, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a76aa1e7-bd84-4e5d-a2f9-f94d19eb1609                                                                                       
+
+2023/10/25 11:30:06:306  - [FAIL]  STEP 214:Failed to click the Filter button.                                                                                       
+
+2023/10/25 11:30:06:306  - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [DBUG] Executing test - EditRevivedCampaigns | 18 of 25                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Product 1 ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Product 2 ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Product 3 ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Priority ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Allocation Group ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Additional Information ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Mandatory Campaign ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Re-allocate Leads ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Engagement Preference ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Product 1 ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Product 2 ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Product 3 ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Priority ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Allocation Group ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Additional Information ' not found                                                                                       
+
+2023/10/25 11:30:06:306  - [EROR]  Parameter ' Mandatory Campaign ' not found                                                                                       
+
+2023/10/25 11:30:22:3022 - [EROR]  Failed to retrieve text from element Xpath - Unable to locate element: (//div[text()='Automation Drop2']//..//span)[1]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 3071, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a76aa1e7-bd84-4e5d-a2f9-f94d19eb1609
+*** Element info: {Using=xpath, value=(//div[text()='Automation Drop2']//..//span)[1]}                                                                                       
+
+2023/10/25 11:30:38:3038 - [EROR]  Failed to retrieve text from element Xpath - Unable to locate element: (//div[text()='Campaign code']//..//div)[2]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 3071, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a76aa1e7-bd84-4e5d-a2f9-f94d19eb1609
+*** Element info: {Using=xpath, value=(//div[text()='Campaign code']//..//div)[2]}                                                                                       
+
+2023/10/25 11:30:38:3038 - [FAIL]  STEP 216:Failed to validate Campaign Status '' with 'Pending'.                                                                                       
+
+2023/10/25 11:30:40:3040 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:30:40:3040 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:30:40:3040 - [DBUG] Executing test - SendEmailForReviving | 19 of 25                                                                                       
+
+2023/10/25 11:31:12:3112 - [FAIL]  STEP 219:Failed to wait for the 'Send' button.                                                                                       
+
+2023/10/25 11:31:12:3112 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:31:12:3112 - [DBUG] Executing test - LogOut_DAE | 20 of 25                                                                                       
+
+2023/10/25 11:31:12:3112 - [DBUG]  Found element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:31:12:3112 - [DBUG]  Found element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:31:12:3112 - [EROR]  Failed to click on element by Xpath - Element <span class="anticon"> is not clickable at point (1752,35) because another element <div id="wfx_popup_glass" class="WFEMGBB"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 3071, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a76aa1e7-bd84-4e5d-a2f9-f94d19eb1609                                                                                       
+
+2023/10/25 11:31:13:3113 - [FAIL]  STEP 221:Failed to click the user profile dropDown.                                                                                       
+
+2023/10/25 11:31:13:3113 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:31:13:3113 - [DBUG] Executing test - Login_DAE | 21 of 25                                                                                       
+
+2023/10/25 11:31:53:3153 - [INFO] - [INFO] STEP 222:Successfully navigated to OM| DAE SSO Site.                                                                                       
+
+2023/10/25 11:31:54:3154 - [DBUG]  Found element by Xpath : //div[@class='divnotNewRegisteredUser ']                                                                                       
+
+2023/10/25 11:31:54:3154 - [INFO] - [INFO] STEP 224:Successfully navigated to OM| DAE - LogIn page.                                                                                       
+
+2023/10/25 11:31:54:3154 - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:31:54:3154 - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/25 11:31:54:3154 - [DBUG] Entered Text of: Adviser7 to: //input[@id='username']                                                                                       
+
+2023/10/25 11:31:54:3154 - [INFO] - [INFO] STEP 226:Successfully entered the Username Adviser7                                                                                       
+
+2023/10/25 11:31:55:3155 - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:31:55:3155 - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/25 11:31:55:3155 - [DBUG] Entered Text of: Password@01 to: //input[@id='password']                                                                                       
+
+2023/10/25 11:31:55:3155 - [INFO] - [INFO] STEP 227:Successfully entered the Password Password@01                                                                                       
+
+2023/10/25 11:31:55:3155 - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:31:55:3155 - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:31:56:3156 - [DBUG] Clicked element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/25 11:31:56:3156 - [INFO] - [INFO] STEP 228:Successfully clicked the LogIn Button.                                                                                       
+
+2023/10/25 11:31:58:3158 - [DBUG]  Found element by Xpath : //li[@title='Workbench']                                                                                       
+
+2023/10/25 11:31:58:3158 - [INFO] - [INFO] STEP 229:Successfully logged In.                                                                                       
+
+2023/10/25 11:32:00:320  - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:32:00:320  - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:32:00:320  - [DBUG] Executing test - ContactACustomer | 22 of 25                                                                                       
+
+2023/10/25 11:32:00:320  - [DBUG]  Found element by Xpath : //li[@title='Leads']                                                                                       
+
+2023/10/25 11:32:00:320  - [DBUG]  Found element by Xpath : //li[@title='Leads']                                                                                       
+
+2023/10/25 11:32:00:320  - [DBUG] Clicked element by Xpath : //li[@title='Leads']                                                                                       
+
+2023/10/25 11:32:00:320  - [INFO] - [INFO] STEP 232:Successfully clicked the Leads Tab.                                                                                       
+
+2023/10/25 11:32:01:321  - [DBUG]  Found element by Xpath : //div[@class='leadsListPage']//div[text()='Leads']                                                                                       
+
+2023/10/25 11:32:01:321  - [INFO] - [INFO] STEP 234:Successfully navigated to Lead List Page.                                                                                       
+
+2023/10/25 11:32:02:322  - [DBUG]  Found element by Xpath : (//span[@class='anticon filterIcon cursor']//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:32:02:322  - [DBUG]  Found element by Xpath : (//span[@class='anticon filterIcon cursor']//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:32:02:322  - [DBUG] Clicked element by Xpath : (//span[@class='anticon filterIcon cursor']//..//..//..//div)[1]                                                                                       
+
+2023/10/25 11:32:02:322  - [INFO] - [INFO] STEP 236:Successfully clicked the Filter button.                                                                                       
+
+2023/10/25 11:32:05:325  - [DBUG]  Found element by Xpath : //div[text()='LEAD SOURCE']//..//..//..//..//div[@class='omd-collapse-header']                                                                                       
+
+2023/10/25 11:32:05:325  - [DBUG]  Found element by Xpath : //div[text()='LEAD SOURCE']//..//..//..//..//div[@class='omd-collapse-header']                                                                                       
+
+2023/10/25 11:32:06:326  - [EROR]  Failed to click on element by Xpath - Element <div class="omd-collapse-header"> is not clickable at point (275,857) because another element <iframe id="1698226322052412870026" class="WFEMPUB WFEMEDC" src="https://eu.whatfix.com/3f9ac5c6-21d3-4140-9ecb-d9d46ec6b216/tasker.html?id=1698226322052412870026&via=embed"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 5213, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4a29c2fe-8280-4a5f-b5fc-65d75ba167e9                                                                                       
+
+2023/10/25 11:32:06:326  - [FAIL]  STEP 239:Failed to wait for the Lead Source dropdown.                                                                                       
+
+2023/10/25 11:32:06:326  - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:32:06:326  - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:32:06:326  - [DBUG] Executing test - setUpAppointment | 23 of 25                                                                                       
+
+2023/10/25 11:32:06:326  - [EROR]  Parameter ' Pipeline Type ' not found                                                                                       
+
+2023/10/25 11:32:06:326  - [EROR]  Parameter ' Platform ' not found                                                                                       
+
+2023/10/25 11:32:06:326  - [EROR]  Parameter ' isCustomerContactedSuccessfully ' not found                                                                                       
+
+2023/10/25 11:32:06:326  - [EROR]  Parameter ' Call Note ' not found                                                                                       
+
+2023/10/25 11:32:06:326  - [EROR]  Parameter ' Status ' not found                                                                                       
+
+2023/10/25 11:32:06:326  - [EROR]  Parameter ' Lead Status ' not found                                                                                       
+
+2023/10/25 11:32:11:3211 - [DBUG] Scrolled to element - //div[@class='TreeSelectPopover-overViewHeaderLeft']                                                                                       
+
+2023/10/25 11:32:11:3211 - [DBUG]  Found element by Xpath : (//div[@class='nameCell']//div[2])[1]                                                                                       
+
+2023/10/25 11:32:11:3211 - [DBUG] Text: Warning, Asset retrieved successfully from eloement - (//div[@class='nameCell']//div[2])[1]                                                                                       
+
+2023/10/25 11:32:27:3227 - [EROR]  Failed to retrieve text from element Xpath - Unable to locate element: (//div[text()='Warning, Asset']//..//..//..//..//td[10]//span//span)[1]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 5213, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4a29c2fe-8280-4a5f-b5fc-65d75ba167e9
+*** Element info: {Using=xpath, value=(//div[text()='Warning, Asset']//..//..//..//..//td[10]//span//span)[1]}                                                                                       
+
+2023/10/25 11:32:27:3227 - [DBUG]  Found element by Xpath : (//table//span[@class='anticon']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:32:27:3227 - [DBUG]  Found element by Xpath : (//table//span[@class='anticon']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:32:28:3228 - [DBUG] Clicked element by Xpath : (//table//span[@class='anticon']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:32:28:3228 - [INFO] - [INFO] STEP 240:Successfully clicked the Action  Set Up Appointment button.                                                                                       
+
+2023/10/25 11:32:29:3229 - [DBUG]  Found element by Xpath : //div[text()='New Event']                                                                                       
+
+2023/10/25 11:32:29:3229 - [INFO] - [INFO] STEP 242:Successfully validated the 'New Event' header is visible.                                                                                       
+
+2023/10/25 11:32:29:3229 - [DBUG]  Found element by Xpath : //input[@id='basic_title']                                                                                       
+
+2023/10/25 11:32:29:3229 - [DBUG]  Found element by Xpath : //input[@id='basic_title']                                                                                       
+
+2023/10/25 11:32:29:3229 - [DBUG] Entered Text of: Employment Contract to: //input[@id='basic_title']                                                                                       
+
+2023/10/25 11:32:29:3229 - [INFO] - [INFO] STEP 243:Successfully clicked the 'Event Name' Employment Contract                                                                                       
+
+2023/10/25 11:32:30:3230 - [DBUG]  Found element by Xpath : (//span[text()='SAVE']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:32:30:3230 - [DBUG]  Double-clicked element by Xpath : (//span[text()='SAVE']//..//..//button)[2]                                                                                       
+
+2023/10/25 11:32:30:3230 - [INFO] - [INFO] STEP 245:Successfully clicked the 'Save' button.                                                                                       
+
+2023/10/25 11:32:34:3234 - [DBUG]  Found element by Xpath : (//div[@class='omd-message-custom-content omd-message-success']//span)[2]                                                                                       
+
+2023/10/25 11:32:34:3234 - [DBUG]  Found element by Xpath : (//div[@class='omd-message-custom-content omd-message-success']//span)[2]                                                                                       
+
+2023/10/25 11:32:34:3234 - [DBUG] Text: Added successfully retrieved successfully from eloement - (//div[@class='omd-message-custom-content omd-message-success']//span)[2]                                                                                       
+
+2023/10/25 11:32:34:3234 - [INFO] - VALIDATION: 247:Added successfullybr Expected Value Created successfully                                                                                       
+
+2023/10/25 11:32:34:3234 - [INFO] - [INFO] STEP 248:Successfully validated the Added successfully                                                                                       
+
+2023/10/25 11:32:37:3237 - [DBUG]  Found element by Xpath : (//span[text()='Customer Contacted']//..//span)[2]                                                                                       
+
+2023/10/25 11:32:37:3237 - [DBUG]  Found element by Xpath : (//span[text()='Customer Contacted']//..//span)[2]                                                                                       
+
+2023/10/25 11:32:37:3237 - [EROR]  Failed to click on element by Xpath - Element <span> is not clickable at point (1641,937) because another element <div> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:c3b:5a09:2cb6:df63%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20231019122658, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 23.0.0, moz:processID: 5213, moz:profile: /var/folders/0w/3jq75mwd3d7..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4a29c2fe-8280-4a5f-b5fc-65d75ba167e9                                                                                       
+
+2023/10/25 11:32:37:3237 - [FAIL]  STEP 251:Failed to click the close button.                                                                                       
+
+2023/10/25 11:32:37:3237 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:32:37:3237 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/25 11:32:37:3237 - [DBUG] Executing test - SendToXplan_MFC_ChangeLeadStatus | 24 of 25                                                                                       
+
+2023/10/25 11:32:37:3237 - [DBUG]  Found element by Xpath : (//table//span[@class='anticon'])[3]                                                                                       
+
+2023/10/25 11:32:37:3237 - [DBUG]  Found element by Xpath : (//table//span[@class='anticon'])[3]                                                                                       
+
+2023/10/25 11:32:38:3238 - [DBUG] Clicked element by Xpath : (//table//span[@class='anticon'])[3]                                                                                       
+
+2023/10/25 11:32:38:3238 - [INFO] - [INFO] STEP 252:Successfully clicked the Action  More button.                                                                                       
+
+2023/10/25 11:32:38:3238 - [DBUG]  Found element by Xpath : (//span[text()='Send To'])[1]                                                                                       
+
+2023/10/25 11:32:41:3241 - [DBUG]  Found element by Xpath : (//span[text()='Send To'])[1]                                                                                       
+
+2023/10/25 11:32:58:3258 - [EROR] Reached TimeOut whilst waiting for element by Xpath '(//span[text()='X-Plan']//..)[1]'                                                                                       
+
+2023/10/25 11:32:59:3259 - [FAIL]  STEP 255:Failed to wait for the Action  More  Send To X-Plan                                                                                       
+
+2023/10/25 11:32:59:3259 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:32:59:3259 - [DBUG] Executing test - LogOut_DAE | 25 of 25                                                                                       
+
+2023/10/25 11:32:59:3259 - [DBUG]  Found element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:32:59:3259 - [DBUG]  Found element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:32:59:3259 - [DBUG] Clicked element by Xpath : (//div[@class='headerRight']//div[@class='om-ums-UserMenu-header om-ums-UserMenu-btn']//span//span)[2]                                                                                       
+
+2023/10/25 11:32:59:3259 - [INFO] - [INFO] STEP 256:Successfully clicked the user profile dropDown.                                                                                       
+
+2023/10/25 11:32:59:3259 - [DBUG]  Found element by Xpath : //span[text()='Logout']                                                                                       
+
+2023/10/25 11:32:59:3259 - [INFO] - [INFO] STEP 258:Successfully verified the logOut button is visible.                                                                                       
+
+2023/10/25 11:33:00:330  - [DBUG]  Found element by Xpath : //span[text()='Logout']                                                                                       
+
+2023/10/25 11:33:00:330  - [DBUG] Clicked element by Xpath : //span[text()='Logout']                                                                                       
+
+2023/10/25 11:33:00:330  - [INFO] - [INFO] STEP 260:Successfully clicked the logOut button.                                                                                       
+
+2023/10/25 11:33:03:333  - [DBUG]  Found element by Xpath : //div[@class='loggedout form-shadowed form-thin form-register']//a[text()='Log in again']                                                                                       
+
+2023/10/25 11:33:03:333  - [DBUG] Text: Log in again retrieved successfully from eloement - //div[@class='loggedout form-shadowed form-thin form-register']//a[text()='Log in again']                                                                                       
+
+2023/10/25 11:33:03:333  - [INFO] - VALIDATION: 261:validated the user has logged out.  Log in again                                                                                       
+
+2023/10/25 11:33:03:333  - [INFO] - [INFO] STEP 262:Successfully validated the user 'Adviser7' has logged out.                                                                                       
+
+2023/10/25 11:33:05:335  - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/25 11:33:06:336  - [EROR]  generating report...see message and  stack trace below: Cannot invoke "org.apache.poi.ss.usermodel.Workbook.createSheet(String)" because "this.workbook" is null                                                                                       

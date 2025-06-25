@@ -1,0 +1,46 @@
+
+                         -- NARRATOR LOG FILE --                                                                                       
+
+2024/01/09 10:48:04:484  - [DBUG] Executing test - Login_DAE | 1 of 3                                                                                       
+
+2024/01/09 10:48:38:4838 - [DBUG] Process unexpectedly closed with status signal
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RG7GJK9Y5H', ip: 'fe80:0:0:0:1c16:bef0:1860:62c2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.0', java.version: '18'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace:                                                                                        
+
+2024/01/09 10:48:40:4840 - [EROR]  navigating to URL  - Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.Driver" is null                                                                                       
+
+2024/01/09 10:48:40:4840 - [EROR] Failed to take a screenshot.                                                                                       
+
+2024/01/09 10:48:40:4840 - [FAIL]  STEP 1:Unable to navigate to OM| DAE SSO site.                                                                                       
+
+2024/01/09 10:48:40:4840 - [DBUG] Continuing to next test method                                                                                       
+
+2024/01/09 10:48:40:4840 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2024/01/09 10:48:40:4840 - [DBUG] Executing test - CreateAnOpportunityFromCustomerList | 2 of 3                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Campaign Name ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Category ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Product 1 ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Product 2 ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Product 3 ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Priority ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Allocation Group ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Additional Information ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Mandatory Campaign ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Re-allocate Leads ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Engagement Preference ' not found                                                                                       
+
+2024/01/09 10:48:41:4841 - [EROR]  Parameter ' Campaign Leads Type ' not found                                                                                       

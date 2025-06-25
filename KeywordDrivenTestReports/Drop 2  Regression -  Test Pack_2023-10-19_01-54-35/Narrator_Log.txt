@@ -1,0 +1,122 @@
+
+                         -- NARRATOR LOG FILE --                                                                                       
+
+2023/10/19 13:54:38:5438 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:54:38:5438 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:54:38:5438 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:54:38:5438 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:54:38:5438 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:54:38:5438 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:54:38:5438 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:54:38:5438 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:54:38:5438 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:54:38:5438 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:54:38:5438 - [DBUG] Executing test - Login_DAE | 21 of 25                                                                                       
+
+2023/10/19 13:55:16:5516 - [INFO] - [INFO] STEP 1:Successfully navigated to OM| DAE SSO Site.                                                                                       
+
+2023/10/19 13:55:18:5518 - [DBUG]  Found element by Xpath : //div[@class='divnotNewRegisteredUser ']                                                                                       
+
+2023/10/19 13:55:18:5518 - [INFO] - [INFO] STEP 3:Successfully navigated to OM| DAE - LogIn page.                                                                                       
+
+2023/10/19 13:55:18:5518 - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/19 13:55:18:5518 - [DBUG]  Found element by Xpath : //input[@id='username']                                                                                       
+
+2023/10/19 13:55:18:5518 - [DBUG] Entered Text of: Hornjo to: //input[@id='username']                                                                                       
+
+2023/10/19 13:55:18:5518 - [INFO] - [INFO] STEP 5:Successfully entered the Username Hornjo                                                                                       
+
+2023/10/19 13:55:19:5519 - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/19 13:55:19:5519 - [DBUG]  Found element by Xpath : //input[@id='password']                                                                                       
+
+2023/10/19 13:55:19:5519 - [DBUG] Entered Text of: Password@01 to: //input[@id='password']                                                                                       
+
+2023/10/19 13:55:19:5519 - [INFO] - [INFO] STEP 6:Successfully entered the Password Password@01                                                                                       
+
+2023/10/19 13:55:19:5519 - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/19 13:55:19:5519 - [DBUG]  Found element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/19 13:55:20:5520 - [DBUG] Clicked element by Xpath : //button[@id='login']                                                                                       
+
+2023/10/19 13:55:20:5520 - [INFO] - [INFO] STEP 7:Successfully clicked the LogIn Button.                                                                                       
+
+2023/10/19 13:55:22:5522 - [DBUG]  Found element by Xpath : //li[@title='Workbench']                                                                                       
+
+2023/10/19 13:55:22:5522 - [INFO] - [INFO] STEP 8:Successfully logged In.                                                                                       
+
+2023/10/19 13:55:22:5522 - [DBUG] Continuing to next test method                                                                                       
+
+2023/10/19 13:55:22:5522 - [EROR]  Parameter ' Username ' not found                                                                                       
+
+2023/10/19 13:55:22:5522 - [DBUG] Executing test - ContactACustomer | 22 of 25                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Title ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' First Name ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Last Name ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Identity Number ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Number Type ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Number Type 2 ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Contact Number ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Description ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Work Site ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Platform 2 ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Allocate To ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Campaign Name ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Category ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Product 1 ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Product 2 ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Product 3 ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Priority ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Allocation Group ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Additional Information ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Mandatory Campaign ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Re-allocate Leads ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Engagement Preference ' not found                                                                                       
+
+2023/10/19 13:55:44:5544 - [EROR]  Parameter ' Campaign Leads Type ' not found                                                                                       
+
+2023/10/19 13:55:53:5553 - [DBUG]  Found element by Xpath : //li[@title='Leads']                                                                                       
+
+2023/10/19 13:55:54:5554 - [DBUG]  Found element by Xpath : //li[@title='Leads']                                                                                       
+
+2023/10/19 13:55:54:5554 - [DBUG] Clicked element by Xpath : //li[@title='Leads']                                                                                       
+
+2023/10/19 13:55:54:5554 - [INFO] - [INFO] STEP 11:Successfully clicked the Leads Tab.                                                                                       
+
+2023/10/19 13:55:58:5558 - [DBUG]  Found element by Xpath : //div[@class='leadsListPage']//div[text()='Leads']                                                                                       
+
+2023/10/19 13:55:58:5558 - [INFO] - [INFO] STEP 13:Successfully navigated to Lead List Page.                                                                                       
